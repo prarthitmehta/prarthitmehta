@@ -13,15 +13,11 @@ I write and build around AI systems, cloud architecture, platform engineering, D
 - DevSecOps & Governance
 - Enterprise Technology Transformation
 
----
-
 ## Writing
 
-📝 **blog.prarthitmehta.me**
+**blog.prarthitmehta.me**
 
 Architecture insights, AI systems, cloud transformation, and lessons learned from real-world enterprise implementations.
-
----
 
 ## Current Themes
 
@@ -29,14 +25,5 @@ Architecture insights, AI systems, cloud transformation, and lessons learned fro
 
 ---
 
-## Building
-
-- Enterprise AI reference architectures
-- Cloud modernization patterns
-- Platform engineering blueprints
-- DevSecOps operating models
-- Technology consulting frameworks
-
----
-
 > Build practical systems. Share useful lessons. Focus on what works in real enterprise environments.
+
